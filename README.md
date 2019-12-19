@@ -3,7 +3,9 @@
 Pagina web para creadores de contenido artístico y amantes freak 
 
 **StarSide**
-(![enter image description here](https://lh3.googleusercontent.com/YDlmCaR6KIB5Ugc4yekLygFXjO-QZNIL5tTQc5IRCGYF_vQyPhCjCch8NyP37zxD7Qn5aGk2xw_VcQ))
+
+![enter image description here](https://lh3.googleusercontent.com/YDlmCaR6KIB5Ugc4yekLygFXjO-QZNIL5tTQc5IRCGYF_vQyPhCjCch8NyP37zxD7Qn5aGk2xw_VcQ)
+
 **OBJETIVOS:**
 
 **General**
